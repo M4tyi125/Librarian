@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1762632743 source:c:\git\librarian\main.c
+	<search.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1763233659 source:c:\git\librarian\entities.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entities.h"
+	"dynarray.h"
+
+1763228893 source:c:\git\librarian\dynarray.c
+	"dynarray.h"
+
+1763223130 c:\git\librarian\dynarray.h
+	<stdlib.h>
+	<stdio.h>
+
+1763233842 c:\git\librarian\entities.h
+	"dynarray.h"
+
+1763233659 source:c:\git\librarian\test data.c
+	<stdio.h>
+	"entities.h"
+	"test data.h"
+
+1763226215 c:\git\librarian\test data.h
+	"entities.h"
+

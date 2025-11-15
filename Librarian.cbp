@@ -31,9 +31,21 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="dynarray.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dynarray.h" />
+		<Unit filename="entities.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="entities.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="test data.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test data.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
